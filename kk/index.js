@@ -9,11 +9,11 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const {say} = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
-say('ISLAMIC-ARABIC-BOT', {
+say('𝙹𝚘𝚗 ❄ 𝚂𝚗𝚘𝚠', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`By: ♛ MidSOune ♛`, {
+say(`By: karam`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
