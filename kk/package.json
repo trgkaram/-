@@ -1,7 +1,7 @@
 {
-  "name": "Islamic-Arabic-Bot",
+  "name": "𝙹𝚘𝚗 ❄ 𝚂𝚗𝚘𝚠",
   "version": "1.0.0",
-  "description": "www.techsoune.com",
+  "description": "https://www.instagram.com/_jw16/",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,9 +16,8 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/midsoune/Islamic-WhatsApp-Bot",
   "author": {
-    "name": "MidSoune"
+    "name": "karam"
   },
   "repository": {
     "type": "git",
